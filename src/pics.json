@@ -1,0 +1,63 @@
+ [
+    {
+        "id": 1,
+        "image": "./images/lilu1.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./images/lilu3.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./images/lilu5.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./images/lilu12.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./images/lilu13.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./images/lilu14.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./images/lilu15.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./images/lilu2.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./images/lilu4.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./images/lilu6.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./images/lilu9.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./images/lilu10.png",
+        "clicked": false
+    }
+  
+  ]

@@ -1,0 +1,50 @@
+body{
+    width: 100%;
+}
+
+#background{
+    background-color: rgb(67, 90, 134);
+    height: 800px;
+    width: 100%;
+    position: fixed;
+    z-index: -1;
+    
+}
+
+button{
+    background-color: white;
+    color: rgb(67, 90, 134);
+    border: white 1px solid;
+    box-shadow: 2px 2px grey;
+    margin-right: 20px;
+}
+
+.nav-item{
+    margin-right: 20px;
+    color: white;
+}
+
+
+.popup{
+    height:200px;
+    width: 400px;
+    left: 37%;
+    text-align:center;
+    font-size: 30px;
+    border: black solid 2px;
+    color: rgb(67, 90, 134);
+    top: 200px;
+}
+
+p{
+    margin-top:40px;
+}
+
+#instruct{
+    font-size: 18px;
+    left: 36%;
+}
+
+.instructP{
+    padding:0px 20px 20px 20px;
+}
